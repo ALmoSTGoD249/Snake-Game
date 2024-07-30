@@ -28,6 +28,9 @@ A modern version of the classic Snake game implemented in Python using the Pygam
    ```bash
    python speed.py
    ```
+## Screenshot
+
+![image](https://github.com/user-attachments/assets/914b4e85-3b71-47f6-a3b0-64c906a07d80)
 
 ## Code Overview
 
